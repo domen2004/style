@@ -103,19 +103,19 @@
 }
 
 :root {
-	--chat--color-primary: #e74266;
-	--chat--color-primary-shade-50: #db4061;
-	--chat--color-primary-shade-100: #cf3c5c;
-	--chat--color-secondary: #20b69e;
-	--chat--color-secondary-shade-50: #1ca08a;
-	--chat--color-white: #ffffff;
-	--chat--color-light: #f2f4f8;
-	--chat--color-light-shade-50: #e6e9f1;
-	--chat--color-light-shade-100: #c2c5cc;
-	--chat--color-medium: #d2d4d9;
-	--chat--color-dark: #101330;
-	--chat--color-disabled: #777980;
-	--chat--color-typing: #404040;
+    	--chat--color-primary: #FFAA00; /* Gold/Yellow for accent/toggle button */
+   	--chat--color-primary-shade-50: #E69800; /* Slightly darker gold */
+  	--chat--color-primary-shade-100: #CC8800; /* Even darker gold */
+   	--chat--color-secondary: #5D8AA8; /* Subtle Blue for user messages */
+   	--chat--color-secondary-shade-50: #527A96; /* Slightly darker subtle blue */
+  	--chat--color-white: #ffffff; /* Keep white for backgrounds */
+  	--chat--color-light: #f0f0f0; /* Light gray for backgrounds */
+  	--chat--color-light-shade-50: #e0e0e0; /* Shades of light gray */
+    	--chat--color-light-shade-100: #c0c0c0;
+	--chat--color-medium: #a0a0a0; /* Medium gray */
+ 	--chat--color-dark: #002F66; /* Deep Blue for header/bot text */
+  	--chat--color-disabled: #777980; /* Gray for disabled elements - keep or adjust */
+    	--chat--color-typing: #404040; /* Dark gray for typing indicator - keep or adjust */
 	--chat--spacing: 1rem;
 	--chat--border-radius: .25rem;
 	--chat--transition-duration: .15s;
