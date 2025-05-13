@@ -113,9 +113,9 @@
 	--chat--color-light-shade-50: #e6e9f1;
 	--chat--color-light-shade-100: #c2c5cc;
 	--chat--color-medium: #d2d4d9;
-	--chat--color-dark: #FF0000;
-	--chat--color-disabled: #777980;
-	--chat--color-typing: #404040;
+	--chat--color-dark: #800020;
+	--chat--color-disabled: #800020;
+	--chat--color-typing: #800020;
 	--chat--spacing: 1rem;
 	--chat--border-radius: .25rem;
 	--chat--transition-duration: .15s;
@@ -123,9 +123,9 @@
 	--chat--window--height: 600px;
 	--chat--textarea--height: 50px;
 	--chat--message--bot--background: var(--chat--color-white);
-	--chat--message--bot--color: var(--chat--color-dark);
-	--chat--message--user--background: var(--chat--color-secondary);
-	--chat--message--user--color: var(--chat--color-white);
+	--chat--message--bot--color: var(--chat--color-dark-primary);
+	--chat--message--user--background: var(--chat--color-white);
+	--chat--message--user--color: var(--chat--color-secondary);
 	--chat--message--pre--background: rgba(0, 0, 0, .05);
 	--chat--toggle--background: var(--chat--color-primary);
 	--chat--toggle--hover--background: var(--chat--color-primary-shade-50);
