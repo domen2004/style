@@ -133,6 +133,7 @@
 	--chat--toggle--color: var(--chat--color-white);
 	--chat--toggle--size: 64px;
 	--chat--heading--font-size: 2em
+	--chat--input--text-color: #808080; /* Grey color for text being typed */
 }
 
 pre code.hljs {
